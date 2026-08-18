@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, CLion, Postman</strong> e <strong>GitHub</strong>.
+  💼 Ferramentas: <strong>VS Code, ,CODE::BLOCKS, CLion, Postman</strong> e <strong>GitHub</strong>.
 </p>
 
 <p align="left">
