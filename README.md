@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, Java</strong> e aprendendo <strong>C</strong>.
+  🦄 Linguagens: <strong>JavaScript,HTML, Java</strong> e aprendendo <strong>C</strong>.
 </p>
 
 <p align="left">
